@@ -9,3 +9,15 @@
 //     console.log(num);
 //     num++;
 // }
+
+
+// while(true){
+//     console.log(
+//         'mohsen'
+//     )
+
+
+
+
+    
+// }
