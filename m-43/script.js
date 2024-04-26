@@ -28,3 +28,6 @@ for(var i=1; i<1000; i++){
 
 console.log('3'+ true)
 console.log('3'- '3')
+
+// mm
+
