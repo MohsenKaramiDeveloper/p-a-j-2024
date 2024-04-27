@@ -4,14 +4,14 @@ const updateBackpack = (update) => {
   console.info(update);
 };
 
-const backpack = {
-  name: "Everyday Backpack",
-  volume: 30,
-  color: "grey",
-  pocketNum: 15,
-  strapLength: {
-    left: 26,
-    right: 26,
+// const backpack = {
+//   name: "Everyday Backpack",
+//   volume: 30,
+//   color: "grey",
+//   pocketNum: 15,
+//   strapLength: {
+//     left: 26,
+//     right: 26,
   },
   lidOpen: false,
   toggleLid: function (lidStatus) {
