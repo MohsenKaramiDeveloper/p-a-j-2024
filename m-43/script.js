@@ -31,9 +31,9 @@ console.log('3'- '3')
 
 // mm
 
-// for(var t = 1; t<=2; t++){
-//     console.log('outer' + b++)
-//     {
-//         console.log('inner'+b)
-//     }
-// }
+for(var t = 1; t<=2; t++){
+    console.log('outer' + b++)
+    {
+        console.log('inner'+b)
+    }
+}
