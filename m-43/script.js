@@ -51,3 +51,7 @@ console.log(w);
 
 
 let arr1 = [1,2,3,4]
+
+function add1(){
+
+}
