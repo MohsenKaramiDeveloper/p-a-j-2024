@@ -47,3 +47,7 @@ console.log(array1.join('    @    '));
 var w = array1.pop();
 console.log(array1.join('    @    '));
 console.log(w);
+
+
+
+let arr1 = [1,2,3,4]
