@@ -43,3 +43,4 @@ var array1 = [1, true, "mohsen", false, 123]
 console.log(array1)
 let x = array1.toString()
 console.log(x)
+console.log(array1.join('@'))
