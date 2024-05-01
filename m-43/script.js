@@ -37,3 +37,9 @@ for(var t = 1; t<=2; t++){
         console.log('inner'+b)
     }
 }
+
+
+var array1 = [1, true, "mohsen", false, 123]
+console.log(array1)
+let x = array1.toString()
+console.log(x)
