@@ -84,7 +84,7 @@ console.log( power(33,33))
 //  odd even
 
 
-function isprime (number){
+function isPrime (number){
     var count = 0;
     for(var i = 1 ; i<= number ; i++){
         if(number % i == 0){count++;}
@@ -97,7 +97,7 @@ function isprime (number){
         return false;
     
 }
-console.log(isprime(654
+console.log(isPrime(654
 ))
 
 
