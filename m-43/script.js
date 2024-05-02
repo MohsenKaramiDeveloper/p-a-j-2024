@@ -61,6 +61,12 @@
 // }
 
 
+
+
+// power
+
+
+
 function power(base, exponent){
     let result = 1;
     for(let i=1 ; i<=exponent ; i++){
@@ -71,3 +77,6 @@ function power(base, exponent){
 }
 
 console.log( power(33,33))
+
+
+
