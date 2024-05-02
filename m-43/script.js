@@ -84,20 +84,33 @@ console.log( power(33,33))
 //  odd even
 
 
-function isPrime (number){
-    var count = 0;
-    for(var i = 1 ; i<= number ; i++){
-        if(number % i == 0){count++;}
+// function isPrime (number){
+//     var count = 0;
+//     for(var i = 1 ; i<= number ; i++){
+//         if(number % i == 0){count++;}
 
-    }
+//     }
 
-    if(count == 2)return true;
+//     if(count == 2)return true;
 
-    else
-        return false;
+//     else
+//         return false;
     
+// }
+// console.log(isPrime(654
+// ))
+
+
+function isPrime (number){
+    
+    for(var i = 2 ; i<number ; i++){
+        if (number % i == 0)
+        return false;
+    }
+    return true;
 }
-console.log(isPrime(654
-))
 
 
+console.log(isPrime(23))
+console.log(isPrime(22))
+console.log(isPrime(65498))
