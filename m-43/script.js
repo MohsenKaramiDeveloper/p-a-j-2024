@@ -96,9 +96,9 @@ console.log( power(33,33))
 //     else
 //         return false;
     
-}
-console.log(isPrime(654
-))
+// }
+// console.log(isPrime(654
+// ))
 
 
 function isPrime (number){
