@@ -16,7 +16,7 @@ const backpack = {
     this.lidOpen = lidStatus;
   },
   newStrapLength: function (lengthLeft, lengthRight) {
-    // this.strapLength.left = lengthLeft;
+    this.strapLength.left = lengthLeft;
     this.strapLength.right = lengthRight;
   },
 };
