@@ -76,7 +76,7 @@ function power(base, exponent){
     return result;
 }
 
-console.log( power(33,33))
+// console.log( power(33,33))
 
 
 
