@@ -24,12 +24,12 @@
 //     console.log(i);
     
 
-// }
+}
 
-// console.log('3'+ true)
-// console.log('3'- '3')
+console.log('3'+ true)
+console.log('3'- '3')
 
-// // mm
+// mm
 
 for(var t = 1; t<=2; t++){
     console.log('outer' + b++)
