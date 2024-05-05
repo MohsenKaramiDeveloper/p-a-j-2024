@@ -16,12 +16,12 @@
 //     console.log('mohsen');
 // }
 
-// for(var i=1; i<1000; i++){
-//     if(i%2==0){
-//         continue;
+for(var i=1; i<1000; i++){
+    if(i%2==0){
+        continue;
 
-//     }
-//     console.log(i);
+    }
+    console.log(i);
     
 
 }
