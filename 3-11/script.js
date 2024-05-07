@@ -16,7 +16,7 @@ function Backpack(
   this.volume = volume;
   this.color = color;
   this.pocketNum = pocketNum;
-  // this.strapLength = {
+  this.strapLength = {
     left: strapLengthL,
     right: strapLengthR,
   };
