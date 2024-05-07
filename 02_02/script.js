@@ -47,4 +47,4 @@ const markup = (backpack) => {
 
 const main = document.createElement("main");
 main.innerHTML = markup(backpack);
-document.body.appendChild(main);
+// document.body.appendChild(main);
