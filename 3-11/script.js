@@ -24,10 +24,10 @@ function Backpack(
   this.toggleLid = function (lidStatus) {
     this.lidOpen = lidStatus;
   };
-  this.newStrapLength = function (lengthLeft, lengthRight) {
-    this.strapLength.left = lengthLeft;
-    this.strapLength.right = lengthRight;
-  };
+  // this.newStrapLength = function (lengthLeft, lengthRight) {
+  //   this.strapLength.left = lengthLeft;
+  //   this.strapLength.right = lengthRight;
+  // };
 }
 
 const everydayPack = new Backpack(
