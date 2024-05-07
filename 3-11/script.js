@@ -20,7 +20,7 @@ function Backpack(
     left: strapLengthL,
     right: strapLengthR,
   };
-  // this.lidOpen = lidOpen;
+  this.lidOpen = lidOpen;
   this.toggleLid = function (lidStatus) {
     this.lidOpen = lidStatus;
   };
