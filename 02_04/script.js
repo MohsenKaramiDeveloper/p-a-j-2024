@@ -6,7 +6,7 @@ import backpack from "./backpack.js";
 const markup = (backpack) => {
   return `
   <div>
-    <h3>${backpack.name}</h3>
+    // <h3>${backpack.name}</h3>
     <ul>
       <li>Volume: ${backpack.volume}</li>
       <li>Color: ${backpack.color}</li>
