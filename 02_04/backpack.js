@@ -9,7 +9,7 @@ const backpack = {
   volume: 30,
   color: "grey",
   pocketNum: 15,
-  // strapLength: {
+  strapLength: {
     left: 26,
    right: 26, 
 
