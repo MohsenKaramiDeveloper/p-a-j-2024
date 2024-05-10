@@ -56,7 +56,7 @@ function add1(){
 
 }
 
-// let add2 = function(){
+let add2 = function(){
 
 }
 
