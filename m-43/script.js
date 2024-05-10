@@ -21,7 +21,7 @@ for(var i=1; i<1000; i++){
         continue;
 
     }
-    console.log(i);
+    // console.log(i);
     
 
 }
