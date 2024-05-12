@@ -19,7 +19,7 @@ const backpack = {
   lidOpen: false,
   toggleLid: function (lidStatus) {
     this.lidOpen = lidStatus;
-    updateBackpack(`Lid status changed.`);
+    // updateBackpack(`Lid status changed.`);
   },
   newStrapLength: function (lengthLeft, lengthRight) {
     this.strapLength.left = lengthLeft;
