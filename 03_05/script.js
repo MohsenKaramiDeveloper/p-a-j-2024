@@ -8,7 +8,7 @@ const backpack = {
   color: "grey",
   pocketNum: 15,
   strapLength: {
-    left: 26,
+    // left: 26,
     right: 26,
   },
   lidOpen: false,
