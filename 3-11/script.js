@@ -9,7 +9,7 @@ function Backpack(
   color,
   pocketNum,
   strapLengthL,
-  strapLengthR,
+  // strapLengthR,
   lidOpen
 ) {
   this.name = name;
