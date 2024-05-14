@@ -10,7 +10,7 @@ function Backpack(
   pocketNum,
   strapLengthL,
   strapLengthR,
-  // lidOpen
+  lidOpen
 ) {
   this.name = name;
   this.volume = volume;
