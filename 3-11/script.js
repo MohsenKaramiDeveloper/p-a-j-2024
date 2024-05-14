@@ -7,7 +7,7 @@ function Backpack(
   name,
   volume,
   color,
-  // pocketNum,
+  pocketNum,
   strapLengthL,
   strapLengthR,
   lidOpen
