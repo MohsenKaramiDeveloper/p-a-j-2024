@@ -4,7 +4,7 @@
  */
 
 function Backpack(
-  // name,
+  name,
   volume,
   color,
   pocketNum,
