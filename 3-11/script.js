@@ -8,7 +8,7 @@ function Backpack(
   volume,
   color,
   pocketNum,
-  strapLengthL,
+  // strapLengthL,
   strapLengthR,
   lidOpen
 ) {
