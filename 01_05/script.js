@@ -50,9 +50,9 @@ const updateBackpack = (update) => {
       </ul>
     </div>
   `;
-  };
-  
-  const main = document.createElement("main");
-  main.innerHTML = markup(backpack);
-  document.body.appendChild(main);
+};
+
+const main = document.createElement("main");
+main.innerHTML = markup(backpack);
+document.body.appendChild(main);
   
