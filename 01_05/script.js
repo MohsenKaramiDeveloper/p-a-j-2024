@@ -3,6 +3,7 @@
  */
 
 // Single line comment
+// Single line comment
 
 /* Multi-line comment
 See! this line is also commented out! */
