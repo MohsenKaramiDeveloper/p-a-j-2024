@@ -117,3 +117,7 @@ function rangePrime( firstNum , lastNum){
 
 
 // arrow function
+
+var isPrime = (num) =>{
+
+}
