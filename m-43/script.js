@@ -143,4 +143,5 @@ function callback( firstNum , lastNum){
 // scope
 // globalscope
 // let 
+// var
 
