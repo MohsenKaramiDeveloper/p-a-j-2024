@@ -145,4 +145,5 @@ function callback( firstNum , lastNum){
 // let 
 // var
 //const
+// function scope
 
