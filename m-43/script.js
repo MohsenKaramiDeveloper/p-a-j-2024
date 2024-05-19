@@ -131,7 +131,7 @@ function callback( firstNum , lastNum){
 
     for( var i = firstNum ; i<= lastNum ; i++){
         if (isPrime(i) == true)
-            // result.push(i);
+            result.push(i);
     }
 
 
