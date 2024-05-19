@@ -113,3 +113,7 @@ function rangePrime( firstNum , lastNum){
 
 
 }
+
+
+
+// arrow function
