@@ -100,5 +100,9 @@ function isPrime (number){
 //range
 
 function rangePrime( firstNum , lastNum){
+    var result = [];
+
+    
+
 
 }
