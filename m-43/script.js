@@ -123,3 +123,19 @@ var isPrime = (num) =>{
 }
 
 // callback
+
+
+function callback( firstNum , lastNum){
+    var result = [];
+
+
+    for( var i = firstNum ; i<= lastNum ; i++){
+        if (isPrime(i) == true)
+            result.push(i);
+    }
+
+
+    
+
+
+}
