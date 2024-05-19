@@ -146,4 +146,5 @@ function callback( firstNum , lastNum){
 // var
 //const
 // function scope
+// block scope
 
