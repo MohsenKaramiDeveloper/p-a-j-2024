@@ -97,3 +97,6 @@ function isPrime (number){
 console.log(isPrime(23))
 console.log(isPrime(22))
 console.log(isPrime(65498))
+
+
+//range
