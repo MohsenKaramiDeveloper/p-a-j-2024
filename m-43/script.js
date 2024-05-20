@@ -63,7 +63,7 @@ let add2 = function(){
 
 
 
-// power
+power
 
 
 
