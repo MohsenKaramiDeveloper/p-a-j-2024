@@ -100,7 +100,7 @@ function isPrime (number){
 //range
 
 function rangePrime( firstNum , lastNum){
-    var result = [];
+    // var result = [];
 
 
     for( var i = firstNum ; i<= lastNum ; i++){
