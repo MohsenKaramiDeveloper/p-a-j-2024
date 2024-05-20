@@ -125,7 +125,7 @@ var isPrime = (num) =>{
 // callback
 
 
-// function callback( firstNum , lastNum){
+function callback( firstNum , lastNum){
     var result = [];
 
 
