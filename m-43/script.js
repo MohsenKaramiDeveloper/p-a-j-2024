@@ -67,7 +67,7 @@ let add2 = function(){
 
 
 
-// function power(base, exponent){
+function power(base, exponent){
     let result = 1;
     for(let i=1 ; i<=exponent ; i++){
         result *= base;
