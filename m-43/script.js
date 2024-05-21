@@ -149,4 +149,4 @@ function callback( firstNum , lastNum){
 // function scope
 // block scope
 // strict mode
-// use strict
+use strict
