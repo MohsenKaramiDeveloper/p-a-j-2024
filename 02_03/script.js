@@ -1,7 +1,7 @@
 /**
  * Create a Backpack object, populate some HTML to display its properties.
  */
-const updateBackpack = (update) => {
+// const updateBackpack = (update) => {
   let main = document.querySelector("main");
   main.innerHTML = markup(backpack);
   console.info(update);
