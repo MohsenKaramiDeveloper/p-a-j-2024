@@ -146,7 +146,7 @@ function callback( firstNum , lastNum){
 // let 
 // var
 //const
-// function scope
+function scope
 // block scope
 // strict mode
 // use strict
