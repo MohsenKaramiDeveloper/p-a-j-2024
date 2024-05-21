@@ -17,7 +17,7 @@ function Backpack(
   this.color = color;
   this.pocketNum = pocketNum;
   this.strapLength = {
-    // left: strapLengthL,
+    left: strapLengthL,
     right: strapLengthR,
   };
   this.lidOpen = lidOpen;
