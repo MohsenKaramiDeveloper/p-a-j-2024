@@ -12,7 +12,7 @@ const markup = (backpack) => {
       <li>Color: ${backpack.color}</li>
       <li>Number of pockets: ${backpack.pocketNum}</li>
       <li>Strap lengths: L: ${backpack.strapLength.left}, R: ${
-    // backpack.strapLength.right
+    backpack.strapLength.right
   } </li>
       <li>Top lid: ${backpack.lidOpen ? "Open" : "Closed"}</li>
     </ul>
