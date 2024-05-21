@@ -8,7 +8,7 @@ const markup = (backpack) => {
   <div>
      <h3>${backpack.name}</h3>
     <ul>
-      <li>Volume: ${backpack.volume}</li>
+      //<li>Volume: ${backpack.volume}</li>
       <li>Color: ${backpack.color}</li>
       <li>Number of pockets: ${backpack.pocketNum}</li>
       <li>Strap lengths: L: ${backpack.strapLength.left}, R: ${
