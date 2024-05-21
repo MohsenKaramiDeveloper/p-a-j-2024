@@ -7,7 +7,7 @@ const updateBackpack = (update) => {
   console.info(update);
 };
 
-// const backpack = {
+const backpack = {
   name: "Everyday Backpack",
   volume: 30,
   color: "grey",
