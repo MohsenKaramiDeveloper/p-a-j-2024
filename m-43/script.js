@@ -150,3 +150,4 @@ function callback( firstNum , lastNum){
 // block scope
 // strict mode
 // use strict
+object = const
