@@ -144,7 +144,7 @@ function callback( firstNum , lastNum){
 // globalScope
 
 // let 
-// var
+var
 //const
 // function scope
 // block scope
